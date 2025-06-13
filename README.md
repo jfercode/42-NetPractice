@@ -4,6 +4,21 @@ NetPractice es un proyecto de la Escuela 42 diseñado para introducir a los estu
 
 ---
 
+## 📚 Tabla de Contenidos
+
+1. [Objetivos del Proyecto](#-objetivos-del-proyecto)
+2. [Conceptos Clave](#-conceptos-clave)
+   - [Modelo OSI](#1-modelo-osi-open-systems-interconnection)
+   - [Direccionamiento IP](#2-direccionamiento-ip)
+   - [Subnetting](#3-subnetting-subredes)
+   - [Enrutamiento](#4-enrutamiento-routing)
+   - [Switches y Broadcast](#5-switches-y-broadcast)
+   - [Flow de Paquetes](#6-flow-de-paquetes)
+3. [Comandos y Configuración](#️-comandos-y-configuración)
+4. [Tips Comunes](#-tips-comunes)
+5. [Troubleshooting (Solución de Problemas)](#️-troubleshooting-solución-de-problemas)
+6. [Recursos Útiles](#-recursos-útiles)
+
 ## 📚 Objetivos del Proyecto
 
 - Comprender el modelo OSI y cómo se relaciona con las redes modernas.
@@ -13,25 +28,6 @@ NetPractice es un proyecto de la Escuela 42 diseñado para introducir a los estu
 - Desarrollar el pensamiento lógico y sistemático al enfrentar problemas de conectividad.
 
 ---
-<!--
-## 📚 Tabla de Contenidos
-
-1. [Objetivos del Proyecto](#-objetivos-del-proyecto)  
-2. [Conceptos Clave](#-conceptos-clave)  
-   - [Modelo OSI](#1-modelo-osi-open-systems-interconnection)  
-   - [Direccionamiento IP](#2-direccionamiento-ip)  
-   - [Subnetting](#3-subnetting-subredes)  
-   - [Enrutamiento](#4-enrutamiento-routing)  
-   - [Switches y Broadcast](#5-switches-y-broadcast)  
-   - [Flow de Paquetes](#6-flow-de-paquetes)  
-3. [Guía de Ejecución](#-guía-de-ejecución)  
-4. [Comandos y Configuración](#-comandos-y-configuración)  
-5. [Tips Comunes](#-tips-comunes)  
-6. [Troubleshooting (Solución de Problemas)](#-troubleshooting-solución-de-problemas)  
-7. [Recursos Útiles](#-recursos-útiles)  
-8. [Créditos](#-créditos)  
-9. [Licencia](#-licencia)
--->
 
 ## 🧠 Conceptos Clave
 
